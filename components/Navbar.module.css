@@ -1,0 +1,7 @@
+.container {
+  padding: 10px 0;
+}
+
+.container > a {
+  margin-right: 10px;
+}
